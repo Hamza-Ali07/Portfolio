@@ -1,0 +1,6 @@
+node_modules
+dist
+MyPortfolio
+tmp_index.html
+.DS_Store
+*.local
