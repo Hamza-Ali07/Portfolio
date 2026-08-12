@@ -1,3 +1,3 @@
-# **HI! HAMZA ALI HERE**
-## **THIS IS MY PORTFOLIO, YOU CAN VISIT IT BY CLICKING THE FOLLOWING LINK!**
-- [HAMZA ALI's PORTFOLIO](https://Hamza-Ali07.github.io/Portfolio/dist/)
+# **HI! HAMZA ALI HERE** 👋
+## ***THIS IS MY PORTFOLIO, YOU CAN VISIT IT BY CLICKING THE FOLLOWING LINK!***
+# - 🌐 — **[HAMZA ALI's PORTFOLIO](https://Hamza-Ali07.github.io/Portfolio/dist/)**
